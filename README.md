@@ -36,7 +36,7 @@ Small example projects written in Flint.
 
 | Project      | Description | Stars |
 | ------------ | ----------- | ----- |
-| *(none yet)* |             |       |
+| [fjq](https://github.com/lucaas-d3v/fjq) | A minimal jq-like JSON query CLI written in Flint |![](https://img.shields.io/github/stars/lucaas-d3v/fjq)|
 
 ---
 
@@ -48,16 +48,16 @@ Projects exploring what Flint can do.
 | ------------ | ----------- | ----- |
 | *(none yet)* |             |       |
 
----
+<!-- --- -->
 
-## Libraries
+<!-- ## Libraries
 
 Reusable Flint libraries.
 
 | Project      | Description | Stars |
 | ------------ | ----------- | ----- |
 | *(none yet)* |             |       |
-
+ -->
 
 ---
 
