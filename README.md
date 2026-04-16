@@ -37,6 +37,8 @@ Small example projects written in Flint.
 | Project      | Description | Stars |
 | ------------ | ----------- | ----- |
 | [fjq](https://github.com/lucaas-d3v/fjq) | A minimal jq-like JSON query CLI written in Flint |![](https://img.shields.io/github/stars/lucaas-d3v/fjq)|
+| [impact](https://github.com/lucaas-d3v/impact) | analyzes your Git diff, cross-references it with your dependency graph, and outputs a GitHub Actions matrix. |![](https://img.shields.io/github/stars/lucaas-d3v/impact)|
+
 
 ---
 
